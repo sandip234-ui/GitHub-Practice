@@ -2,3 +2,5 @@ Hello GitHub , Glad to have you. 😂
 Let's See it's my first commit . 
 It's a new Change . 
 Let's ammend . 
+
+Pull this 6 Number Line . Using git pull
